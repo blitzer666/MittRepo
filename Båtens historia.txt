@@ -1,9 +1,0 @@
-Tillverkare: FLIPPER
-Modell: 666 HT
-Båttyp: Hardtop
-Årsmodeller: 1998 -
-Längd (m):6,66
-Bredd (m):2,32
-Djup (m):0,80
-Vikt (kg):950
-Kojplatser (st): 3
